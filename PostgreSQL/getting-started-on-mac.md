@@ -9,9 +9,11 @@ https://chartio.com/resources/tutorials/how-to-start-postgresql-server-on-mac-os
 
 ### role 생성
 ``` CREATE ROLE username WITH LOGIN PASSWORD 'quoted password' [OPTIONS] ```
+
 _참고 : https://www.postgresql.org/docs/9.5/static/sql-createrole.html_
 ### 권한 추가
 ``` ALTER ROLE username CREATEDB; ``` 
+
 _참고 : https://www.postgresql.org/docs/9.5/static/sql-alterrole.html_
 
 ### 데이터베이스 생성
