@@ -31,4 +31,5 @@ postgres=> \dt -- list the tables in the currently connected database
 
 ### PostgreSQL 에서 command line 으로 sql 실행하기
 ``` psql -U username -d myDataBase -a -f myInsertFile ```
+
 출처 : http://i5on9i.blogspot.kr/2016/02/db-postgresql-command-line-sql.html
