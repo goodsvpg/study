@@ -4,7 +4,7 @@
 1. vi ~/.bash_profile
 
 2. 작성
-``` alias 약어 = '명령어'
+``` alias 약어 = '명령어' ``` 
 
 3. source ~/.bash_profile
 
